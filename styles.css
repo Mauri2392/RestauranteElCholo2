@@ -3,6 +3,8 @@
 :root{
     --prymary: #007bff; 
     --secondary: rgb(229, 233, 236); 
+    --bg: #f2f2f2; 
+    --light-bg:#eee;
     --third: #130f40; 
     --fourth: rgb(195, 198, 201); 
     --fifth: rgb(216, 223, 231); 
