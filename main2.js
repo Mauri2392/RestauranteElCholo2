@@ -52,4 +52,5 @@ document.addEventListener('DOMContentLoaded', () => {
     L.marker([38.361644879769486, -0.49196990855116524]).addTo(map)
         .bindPopup('Estamos aquí.<br>¡Visítanos!')
         .openPopup();
-});
+}); 
+
